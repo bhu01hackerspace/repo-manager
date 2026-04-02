@@ -1,0 +1,20 @@
+# Diretórios do sistema
+repo-library/
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Configurações locais
+config/local.conf
+
+# Backups
+*.bak
+backup/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
